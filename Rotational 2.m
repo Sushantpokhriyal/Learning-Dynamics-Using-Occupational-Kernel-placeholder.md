@@ -1,3 +1,7 @@
+# In this code we will learn the Rotational dynamics.
+# This code is based on the method of approximating the non-linear function of the dynamics dx/dt= f(x). 
+# We will use the occupational kernel and the inner product induced by this kernel to approximate f.
+
 tStart = tic;
 
 % --- Time discretization ---
